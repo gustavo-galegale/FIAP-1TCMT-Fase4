@@ -3,7 +3,7 @@ Entrega do Tech Challenge da Fase 4 da turma 1TCMT da Postech. Aqui temos o PDF 
 
 Link do Youtube (em processamento no momento do envio inicial): 
 
-Link do PDF com a explicação: [Exercício Fase 4.docx.pdf](https://github.com/gustavo-galegale/FIAP-1TCMT-Fase4/blob/main/Exerc%C3%ADcio%20Fase%204.docx.pdf)
+Link do PDF com a explicação: [Exercício Fase 4.pdf](https://github.com/gustavo-galegale/FIAP-1TCMT-Fase4/blob/main/Exerc%C3%ADcio%20Fase%204.pdf)
 
 Integrantes do Grupo 31
 
